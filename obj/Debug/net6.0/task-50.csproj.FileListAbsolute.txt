@@ -1,0 +1,15 @@
+D:\Code\GB\task-50\obj\Debug\net6.0\task-50.csproj.AssemblyReference.cache
+D:\Code\GB\task-50\obj\Debug\net6.0\task-50.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\GB\task-50\obj\Debug\net6.0\task-50.AssemblyInfoInputs.cache
+D:\Code\GB\task-50\obj\Debug\net6.0\task-50.AssemblyInfo.cs
+D:\Code\GB\task-50\obj\Debug\net6.0\task-50.csproj.CoreCompileInputs.cache
+D:\Code\GB\task-50\bin\Debug\net6.0\task-50.exe
+D:\Code\GB\task-50\bin\Debug\net6.0\task-50.deps.json
+D:\Code\GB\task-50\bin\Debug\net6.0\task-50.runtimeconfig.json
+D:\Code\GB\task-50\bin\Debug\net6.0\task-50.dll
+D:\Code\GB\task-50\bin\Debug\net6.0\task-50.pdb
+D:\Code\GB\task-50\obj\Debug\net6.0\task-50.dll
+D:\Code\GB\task-50\obj\Debug\net6.0\refint\task-50.dll
+D:\Code\GB\task-50\obj\Debug\net6.0\task-50.pdb
+D:\Code\GB\task-50\obj\Debug\net6.0\task-50.genruntimeconfig.cache
+D:\Code\GB\task-50\obj\Debug\net6.0\ref\task-50.dll
