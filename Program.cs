@@ -7,16 +7,16 @@ int[,] numbers = new int[rows,columns];
 // запросим у пользователя число
 int num = ReadArray("Введите двухзначное число");
 int[] userNum = {num/10,num%10};
-//Console.WriteLine($"[{userNum[0]},{userNum[1]}]");
-FillRandomArray(numbers);
+
+FillRandomArray(numbers); // заполним массив
 
 int userValue = FindNumberFromArray(userNum,numbers);
+
 if (userValue == 0)
     Console.WriteLine($"{num} -> такого числа в массиве нет");
 else
     Console.WriteLine($"{num} -> {userValue}");
 
-Console.WriteLine($"Массив [{rows},{columns}]");
 PrintArray(numbers);
 
 // Функции
@@ -45,6 +45,7 @@ void FillRandomArray(int[,] array)
 
 void PrintArray(int[,] array)
 {
+    Console.WriteLine($"Массив [{array[0]},{array[1]}]");
     for(int i = 0; i < array.GetLength(0); i++)
     {
         for(int j = 0; j < array.GetLength(1); j++)
