@@ -6,7 +6,7 @@ int[,] numbers = new int[rows,columns];
 bool yesNumber = false;
 
 // запросим у пользователя число
-int num = ReadArray("Введите двухзначное число");
+int num = ReadInt("Введите двухзначное число");
 int[] userNum = {num/10,num%10};
 
 FillRandomArray(numbers); // заполним массив
@@ -56,7 +56,7 @@ void PrintArray(int[,] array)
     }
 }
 
-int ReadArray(string message)
+int ReadInt(string message)
 {
     Console.WriteLine(message);
     return Convert.ToInt32(Console.ReadLine());
